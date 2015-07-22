@@ -1,0 +1,15 @@
+..\Output\clock.o: clock.c
+..\Output\clock.o: clock.h
+..\Output\clock.o: ..\CMSIS\stm32f10x.h
+..\Output\clock.o: ..\CMSIS\core_cm3.h
+..\Output\clock.o: D:\Keil\ARM\RV31\INC\stdint.h
+..\Output\clock.o: ..\CMSIS\system_stm32f10x.h
+..\Output\clock.o: ..\USER\stm32f10x_conf.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_exti.h
+..\Output\clock.o: ..\CMSIS\stm32f10x.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_iwdg.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_pwr.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\clock.o: ..\FWlib\inc\misc.h

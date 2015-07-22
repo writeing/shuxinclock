@@ -1,0 +1,24 @@
+
+T120C 000:353 SEGGER J-Link V4.40 Log File (0002ms, 0352ms total)
+T120C 000:353 DLL Compiled: Dec  9 2011 18:59:34 (0002ms, 0352ms total)
+T120C 000:353 Logging started @ 2015-07-22 16:00 (0002ms, 0352ms total)
+T120C 000:355 JLINK_SetWarnOutHandler(...) (0000ms, 0354ms total)
+T120C 000:355 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Dec  6 2011 18:57:44
+Hardware: V8.00
+S/N: 304230680
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFULL  returns O.K. (0135ms, 0354ms total)
+T120C 000:491 JLINK_SetErrorOutHandler(...) (0000ms, 0489ms total)
+T120C 000:491 JLINK_ExecCommand("ProjectFile = "C:\Users\write_1\Desktop\Ç¶ÈëÊ½\internet+\USER\JLinkSettings.ini"", ...)  returns 0x00 (0000ms, 0489ms total)
+T120C 000:493 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x00 (0000ms, 0489ms total)
+T120C 000:493 JLINK_TIF_Select(JLINKARM_TIF_SWD)  returns 0x00 (0003ms, 0489ms total)
+T120C 000:496 JLINK_SetSpeed(10) (0001ms, 0492ms total)
+T120C 000:497 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0493ms total)
+T120C 000:497 JLINK_GetDLLVersion()  returns 44000 (0000ms, 0493ms total)
+T120C 000:497 JLINK_GetFirmwareString(...) (0000ms, 0493ms total)
+T120C 000:502 JLINK_GetDLLVersion()  returns 44000 (0000ms, 0493ms total)
+T120C 000:502 JLINK_GetCompileDateTime() (0000ms, 0493ms total)
+T120C 000:504 JLINK_GetFirmwareString(...) (0000ms, 0493ms total)
+T120C 000:505 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0493ms total)
+T120C 000:511 JLINK_GetId() >0x108 TIF> >0x108 TIF> >0x108 TIF> >0x108 TIF>  returns 0x00000000 (0115ms, 0493ms total)
+T120C 002:002 JLINK_Close() (0238ms, 0608ms total)
