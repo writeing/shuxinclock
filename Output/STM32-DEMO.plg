@@ -7,3 +7,1459 @@ C:\Users\write_1\Desktop\«∂»Î Ω\internet+\USER\clock_inter.uvproj
 Project File Date:  07/22/2015
 
 <h2>Output:</h2>
+Build target 'LED-DEMO'
+compiling main.c...
+main.c(44): warning:  #177-D: variable "temp" was declared but never referenced
+compiling pwmconfig.c...
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Target not created
+compiling main.c...
+main.c(44): warning:  #177-D: variable "temp" was declared but never referenced
+main.c - 0 Error(s), 1 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling pwmconfig.c...
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c(48): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(49): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(72): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(74): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(77): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(78): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(80): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(82): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(84): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(84): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(90): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(92): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(98): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(100): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(106): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(108): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(110): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(113): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 8 Error(s), 11 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(48): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(49): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(72): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(74): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(77): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(78): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(80): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(82): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(84): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(84): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(90): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(92): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(98): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(100): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(106): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(108): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(110): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(113): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 8 Error(s), 11 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+compiling pwmconfig.c...
+linking...
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DeInit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DeInit multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseInit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseInit multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1Init multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1Init multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2Init multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2Init multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3Init multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3Init multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4Init multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4Init multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC4Prescaler multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC4Prescaler multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC3Prescaler multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC3Prescaler multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC2Prescaler multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC2Prescaler multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC1Prescaler multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC1Prescaler multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICInit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICInit multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PWMIConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PWMIConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseStructInit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseStructInit multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OCStructInit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OCStructInit multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICStructInit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICStructInit multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRStructInit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRStructInit multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_Cmd multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_Cmd multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CtrlPWMOutputs multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CtrlPWMOutputs multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GenerateEvent multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GenerateEvent multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMAConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMAConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMACmd multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMACmd multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_InternalClockConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_InternalClockConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectInputTrigger multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectInputTrigger multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITRxExternalClockConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITRxExternalClockConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TIxExternalClockConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TIxExternalClockConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode1Config multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode1Config multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode2Config multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode2Config multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PrescalerConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PrescalerConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CounterModeConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CounterModeConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_EncoderInterfaceConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_EncoderInterfaceConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC1Config multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC1Config multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC2Config multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC2Config multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC3Config multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC3Config multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC4Config multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC4Config multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ARRPreloadConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ARRPreloadConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCOM multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCOM multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCCDMA multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCCDMA multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCPreloadControl multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCPreloadControl multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PreloadConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PreloadConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PreloadConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PreloadConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PreloadConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PreloadConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PreloadConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PreloadConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1FastConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1FastConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2FastConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2FastConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3FastConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3FastConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4FastConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4FastConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC1Ref multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC1Ref multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC2Ref multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC2Ref multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC3Ref multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC3Ref multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC4Ref multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC4Ref multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PolarityConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PolarityConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1NPolarityConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1NPolarityConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PolarityConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PolarityConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2NPolarityConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2NPolarityConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PolarityConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PolarityConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3NPolarityConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3NPolarityConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PolarityConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PolarityConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxCmd multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxCmd multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxNCmd multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxNCmd multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOCxM multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOCxM multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateDisableConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateDisableConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateRequestConfig multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateRequestConfig multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectHallSensor multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectHallSensor multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOnePulseMode multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOnePulseMode multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOutputTrigger multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOutputTrigger multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectSlaveMode multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectSlaveMode multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectMasterSlaveMode multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectMasterSlaveMode multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCounter multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCounter multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetAutoreload multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetAutoreload multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare1 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare1 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare2 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare2 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare3 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare3 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare4 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare4 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetClockDivision multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetClockDivision multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture1 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture1 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture2 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture2 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture3 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture3 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture4 multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture4 multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCounter multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCounter multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetPrescaler multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetPrescaler multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetFlagStatus multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetFlagStatus multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearFlag multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearFlag multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetITStatus multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetITStatus multiply defined (by stm32f10x_tim.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearITPendingBit multiply defined (by pwmconfig.o and main.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearITPendingBit multiply defined (by stm32f10x_tim.o and main.o).
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+linking...
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DeInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC4Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC3Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC2Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC1Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PWMIConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OCStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_Cmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CtrlPWMOutputs multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GenerateEvent multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMAConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMACmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_InternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectInputTrigger multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITRxExternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TIxExternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode1Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode2Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PrescalerConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CounterModeConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_EncoderInterfaceConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC1Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC2Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC3Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC4Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ARRPreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCOM multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCCDMA multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCPreloadControl multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC1Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC2Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC3Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC4Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxCmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxNCmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOCxM multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateDisableConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateRequestConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectHallSensor multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOnePulseMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOutputTrigger multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectSlaveMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectMasterSlaveMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCounter multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetAutoreload multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare1 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare2 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare3 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare4 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetClockDivision multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture1 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture2 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture3 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture4 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCounter multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetPrescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetFlagStatus multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearFlag multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetITStatus multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearITPendingBit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+linking...
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DeInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC4Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC3Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC2Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC1Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PWMIConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OCStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_Cmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CtrlPWMOutputs multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GenerateEvent multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMAConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMACmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_InternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectInputTrigger multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITRxExternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TIxExternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode1Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode2Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PrescalerConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CounterModeConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_EncoderInterfaceConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC1Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC2Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC3Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC4Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ARRPreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCOM multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCCDMA multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCPreloadControl multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC1Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC2Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC3Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC4Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxCmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxNCmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOCxM multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateDisableConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateRequestConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectHallSensor multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOnePulseMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOutputTrigger multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectSlaveMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectMasterSlaveMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCounter multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetAutoreload multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare1 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare2 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare3 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare4 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetClockDivision multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture1 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture2 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture3 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture4 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCounter multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetPrescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetFlagStatus multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearFlag multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetITStatus multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearITPendingBit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+linking...
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DeInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4Init multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC4Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC3Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC2Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetIC1Prescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PWMIConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TimeBaseStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OCStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ICStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_BDTRStructInit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_Cmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CtrlPWMOutputs multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GenerateEvent multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMAConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_DMACmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_InternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectInputTrigger multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ITRxExternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_TIxExternalClockConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode1Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ETRClockMode2Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_PrescalerConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CounterModeConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_EncoderInterfaceConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC1Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC2Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC3Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ForcedOC4Config multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ARRPreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCOM multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectCCDMA multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCPreloadControl multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PreloadConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4FastConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC1Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC2Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC3Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearOC4Ref multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC1NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC2NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC3NPolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_OC4PolarityConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxCmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_CCxNCmd multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOCxM multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateDisableConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_UpdateRequestConfig multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectHallSensor multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOnePulseMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectOutputTrigger multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectSlaveMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SelectMasterSlaveMode multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCounter multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetAutoreload multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare1 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare2 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare3 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetCompare4 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_SetClockDivision multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture1 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture2 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture3 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCapture4 multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetCounter multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetPrescaler multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetFlagStatus multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearFlag multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_GetITStatus multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+..\Output\STM32-DEMO.axf: Error: L6200E: Symbol TIM_ClearITPendingBit multiply defined (by stm32f10x_tim.o and pwmconfig.o).
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(4): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling pwmconfig.c...
+pwmconfig.c(1): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(3): error:  #20: identifier "u16" is undefined
+pwmconfig.c(13): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(17): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(17): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(17): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(20): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(24): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(27): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(30): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(33): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(45): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(46): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(49): error:  #20: identifier "u16" is undefined
+pwmconfig.c(50): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(68): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(69): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(71): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(71): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(74): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(75): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(79): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(81): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(87): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(95): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(103): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(107): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(110): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling pwmconfig.c...
+pwmconfig.c(1): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(3): error:  #20: identifier "u16" is undefined
+pwmconfig.c(13): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(17): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(17): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(17): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(20): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(24): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(27): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(30): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(33): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(45): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(46): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(49): error:  #20: identifier "u16" is undefined
+pwmconfig.c(50): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(68): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(69): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(71): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(71): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(74): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(75): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(79): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(81): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(87): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(95): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(103): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(107): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(110): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Target not created
+Build target 'LED-DEMO'
+compiling main.c...
+compiling stm32f10x_it.c...
+compiling led.c...
+compiling clock.c...
+compiling usartConfig.c...
+compiling pwmconfig.c...
+pwmconfig.c(1): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(3): error:  #20: identifier "u16" is undefined
+pwmconfig.c(13): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(17): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(17): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(17): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(20): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(24): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(27): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(30): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(33): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(45): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(46): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(49): error:  #20: identifier "u16" is undefined
+pwmconfig.c(50): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(68): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(69): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(71): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(71): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(74): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(75): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(79): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(81): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(87): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(95): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(103): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(107): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(110): warning:  #223-D: function "TIM_Cmd" declared implicitly
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_exti.c...
+compiling stm32f10x_iwdg.c...
+compiling misc.c...
+compiling system_stm32f10x.c...
+Target not created
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling pwmconfig.c...
+pwmconfig.c(1): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(3): error:  #20: identifier "u16" is undefined
+pwmconfig.c(13): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(17): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(17): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(17): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(20): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(24): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(27): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(30): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(33): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(45): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(46): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(49): error:  #20: identifier "u16" is undefined
+pwmconfig.c(50): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(68): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(69): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(71): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(71): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(74): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(75): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(79): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(81): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(87): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(95): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(103): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(107): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(110): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c(1): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(3): error:  #20: identifier "u16" is undefined
+pwmconfig.c(13): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(17): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(17): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(17): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(20): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(20): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(23): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(24): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(27): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(27): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(30): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(33): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(45): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(46): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(49): error:  #20: identifier "u16" is undefined
+pwmconfig.c(50): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(68): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(69): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(71): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(71): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(74): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(75): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(79): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(81): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(87): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(95): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(103): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(107): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(110): warning:  #223-D: function "TIM_Cmd" declared implicitly
+pwmconfig.c - 27 Error(s), 14 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling pwmconfig.c...
+pwmconfig.c(3): error:  #11-D: unrecognized preprocessing directive
+pwmconfig.c(5): error:  #20: identifier "u16" is undefined
+pwmconfig.c(15): error:  #20: identifier "GPIO_InitTypeDef" is undefined
+pwmconfig.c(19): warning:  #223-D: function "RCC_APB1PeriphClockCmd" declared implicitly
+pwmconfig.c(19): error:  #20: identifier "RCC_APB1Periph_TIM3" is undefined
+pwmconfig.c(19): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(22): warning:  #223-D: function "RCC_APB2PeriphClockCmd" declared implicitly
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOA" is undefined
+pwmconfig.c(22): error:  #20: identifier "RCC_APB2Periph_GPIOB" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_6" is undefined
+pwmconfig.c(25): error:  #20: identifier "GPIO_Pin_7" is undefined
+pwmconfig.c(26): error:  #20: identifier "GPIO_Mode_AF_PP" is undefined
+pwmconfig.c(27): error:  #20: identifier "GPIO_Speed_50MHz" is undefined
+pwmconfig.c(29): warning:  #223-D: function "GPIO_Init" declared implicitly
+pwmconfig.c(29): error:  #20: identifier "GPIOA" is undefined
+pwmconfig.c(32): error:  #20: identifier "GPIO_Pin_1" is undefined
+pwmconfig.c(35): error:  #20: identifier "GPIOB" is undefined
+pwmconfig.c(47): error:  #20: identifier "TIM_TimeBaseInitTypeDef" is undefined
+pwmconfig.c(48): error:  #20: identifier "TIM_OCInitTypeDef" is undefined
+pwmconfig.c(51): error:  #20: identifier "u16" is undefined
+pwmconfig.c(52): error:  #20: identifier "u16" is undefined
+pwmconfig.c(54): error:  #20: identifier "u16" is undefined
+pwmconfig.c(70): error:  #20: identifier "TIM_CKD_DIV1" is undefined
+pwmconfig.c(71): error:  #20: identifier "TIM_CounterMode_Up" is undefined
+pwmconfig.c(73): warning:  #223-D: function "TIM_TimeBaseInit" declared implicitly
+pwmconfig.c(73): error:  #20: identifier "TIM3" is undefined
+pwmconfig.c(76): error:  #20: identifier "TIM_OCMode_PWM1" is undefined
+pwmconfig.c(77): error:  #20: identifier "TIM_OutputState_Enable" is undefined
+pwmconfig.c(79): error:  #20: identifier "TIM_OCPolarity_High" is undefined
+pwmconfig.c(81): warning:  #223-D: function "TIM_OC1Init" declared implicitly
+pwmconfig.c(83): warning:  #223-D: function "TIM_OC1PreloadConfig" declared implicitly
+pwmconfig.c(83): error:  #20: identifier "TIM_OCPreload_Enable" is undefined
+pwmconfig.c(89): warning:  #223-D: function "TIM_OC2Init" declared implicitly
+pwmconfig.c(91): warning:  #223-D: function "TIM_OC2PreloadConfig" declared implicitly
+pwmconfig.c(97): warning:  #223-D: function "TIM_OC3Init" declared implicitly
+pwmconfig.c(99): warning:  #223-D: function "TIM_OC3PreloadConfig" declared implicitly
+pwmconfig.c(105): warning:  #223-D: function "TIM_OC4Init" declared implicitly
+pwmconfig.c(107): warning:  #223-D: function "TIM_OC4PreloadConfig" declared implicitly
+pwmconfig.c(109): warning:  #223-D: function "TIM_ARRPreloadConfig" declared implicitly
+pwmconfig.c(109): error:  #20: identifier "ENABLE" is undefined
+pwmconfig.c(112): warning:  #223-D: function "TIM_Cmd" declared implicitly
+Target not created
+compiling pwmconfig.c...
+pwmconfig.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+linking...
+Program Size: Code=11036 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+linking...
+Program Size: Code=11036 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+linking...
+Program Size: Code=11036 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+compiling stm32f10x_it.c...
+compiling led.c...
+compiling clock.c...
+compiling usartConfig.c...
+compiling pwmconfig.c...
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_iwdg.c...
+compiling misc.c...
+compiling core_cm3.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=11036 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+compiling led.c...
+compiling pwmconfig.c...
+linking...
+Program Size: Code=11040 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+linking...
+Program Size: Code=11044 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling pwmconfig.c...
+linking...
+Program Size: Code=11076 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling pwmconfig.c...
+pwmconfig.c(54): warning:  #177-D: variable "CCR3_Val" was declared but never referenced
+linking...
+Program Size: Code=11016 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LED-DEMO'
+linking...
+Program Size: Code=11016 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+linking...
+Program Size: Code=11016 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+compiling stm32f10x_it.c...
+compiling led.c...
+compiling clock.c...
+compiling usartConfig.c...
+compiling pwmconfig.c...
+pwmconfig.c(54): warning:  #177-D: variable "CCR3_Val" was declared but never referenced
+compiling stm32f10x_rcc.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_pwr.c...
+compiling stm32f10x_usart.c...
+compiling stm32f10x_tim.c...
+compiling stm32f10x_rtc.c...
+compiling stm32f10x_iwdg.c...
+compiling misc.c...
+compiling system_stm32f10x.c...
+linking...
+Program Size: Code=11052 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+led.h(30): warning:  #1295-D: Deprecated declaration HOT_config - give arg types
+main.c(46): error:  #65: expected a ";"
+compiling led.c...
+led.h(30): warning:  #1295-D: Deprecated declaration HOT_config - give arg types
+compiling pwmconfig.c...
+Target not created
+Build target 'LED-DEMO'
+assembling startup_stm32f10x_hd.s...
+compiling main.c...
+main.c(46): error:  #65: expected a ";"
+compiling stm32f10x_it.c...
+Project build/rebuild aborted.
+Target not created
+compiling main.c...
+main.c(46): error:  #65: expected a ";"
+main.c - 1 Error(s), 0 Warning(s).
+compiling main.c...
+main.c - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling led.c...
+linking...
+Program Size: Code=11112 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+linking...
+Program Size: Code=11112 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+linking...
+Program Size: Code=11488 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling led.c...
+linking...
+Program Size: Code=11488 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+linking...
+Program Size: Code=11488 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 0 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+main.c(105): warning:  #177-D: variable "hot" was declared but never referenced
+compiling led.c...
+linking...
+Program Size: Code=11100 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+main.c(106): warning:  #177-D: variable "hot" was declared but never referenced
+linking...
+Program Size: Code=11104 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+main.c(106): warning:  #177-D: variable "hot" was declared but never referenced
+linking...
+Program Size: Code=11108 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+main.c(106): warning:  #177-D: variable "hot" was declared but never referenced
+linking...
+Program Size: Code=11104 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+main.c(106): warning:  #177-D: variable "hot" was declared but never referenced
+compiling led.c...
+linking...
+Program Size: Code=11104 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LED-DEMO'
+compiling main.c...
+main.c(106): warning:  #177-D: variable "hot" was declared but never referenced
+linking...
+Program Size: Code=11112 RO-data=388 RW-data=60 ZI-data=1132  
+FromELF: creating hex file...
+"..\Output\STM32.axf" - 0 Error(s), 1 Warning(s).

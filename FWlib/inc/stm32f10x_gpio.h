@@ -69,7 +69,8 @@ typedef enum
   */
 
 typedef enum
-{ GPIO_Mode_AIN = 0x0,
+{ 
+  GPIO_Mode_AIN = 0x0,
   GPIO_Mode_IN_FLOATING = 0x04,
   GPIO_Mode_IPD = 0x28,
   GPIO_Mode_IPU = 0x48,

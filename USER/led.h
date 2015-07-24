@@ -7,8 +7,8 @@
  * 1 - off
  - 0 - on
  */
-#define ON  0
-#define OFF 1
+#define ON  1
+#define OFF 0
 
 //带参宏，可以像内联函数一样使用
 #define LED1(a)	if (a)	\
@@ -21,11 +21,12 @@
 					else		\
 					GPIO_ResetBits(GPIOB,GPIO_Pin_6)
 
-#define LED3(a)	if (a)	\
-					GPIO_SetBits(GPIOC,GPIO_Pin_5);\
+#define BEEP(a)	if (a)	\
+					GPIO_SetBits(GPIOB,GPIO_Pin_12);\
 					else		\
-					GPIO_ResetBits(GPIOC,GPIO_Pin_5)
+					GPIO_ResetBits(GPIOB,GPIO_Pin_12)
 
 void LED_GPIO_Config(void);
+void HOT_config(void);
 
 #endif /* __LED_H */

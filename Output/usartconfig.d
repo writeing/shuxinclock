@@ -11,5 +11,10 @@
 ..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_iwdg.h
 ..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_pwr.h
 ..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_rtc.h
+..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_sdio.h
+..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_tim.h
 ..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\usartconfig.o: ..\FWlib\inc\stm32f10x_wwdg.h
 ..\Output\usartconfig.o: ..\FWlib\inc\misc.h

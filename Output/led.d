@@ -11,5 +11,10 @@
 ..\Output\led.o: ..\FWlib\inc\stm32f10x_iwdg.h
 ..\Output\led.o: ..\FWlib\inc\stm32f10x_pwr.h
 ..\Output\led.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\led.o: ..\FWlib\inc\stm32f10x_rtc.h
+..\Output\led.o: ..\FWlib\inc\stm32f10x_sdio.h
+..\Output\led.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\led.o: ..\FWlib\inc\stm32f10x_tim.h
 ..\Output\led.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\led.o: ..\FWlib\inc\stm32f10x_wwdg.h
 ..\Output\led.o: ..\FWlib\inc\misc.h

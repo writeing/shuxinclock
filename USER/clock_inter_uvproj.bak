@@ -44,7 +44,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>..\Output\</OutputDirectory>
-          <OutputName>STM32-DEMO</OutputName>
+          <OutputName>STM32</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -421,6 +421,11 @@
               <FileType>1</FileType>
               <FilePath>.\usartConfig.c</FilePath>
             </File>
+            <File>
+              <FileName>pwmconfig.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\pwmconfig.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
@@ -457,14 +462,14 @@
               <FilePath>..\FWlib\src\stm32f10x_rtc.c</FilePath>
             </File>
             <File>
-              <FileName>stm32f10x_exti.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>..\FWlib\src\stm32f10x_exti.c</FilePath>
-            </File>
-            <File>
               <FileName>stm32f10x_iwdg.c</FileName>
               <FileType>1</FileType>
               <FilePath>..\FWlib\src\stm32f10x_iwdg.c</FilePath>
+            </File>
+            <File>
+              <FileName>misc.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\FWlib\src\misc.c</FilePath>
             </File>
           </Files>
         </Group>

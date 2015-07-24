@@ -11,5 +11,10 @@
 ..\Output\clock.o: ..\FWlib\inc\stm32f10x_iwdg.h
 ..\Output\clock.o: ..\FWlib\inc\stm32f10x_pwr.h
 ..\Output\clock.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_rtc.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_sdio.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_spi.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_tim.h
 ..\Output\clock.o: ..\FWlib\inc\stm32f10x_usart.h
+..\Output\clock.o: ..\FWlib\inc\stm32f10x_wwdg.h
 ..\Output\clock.o: ..\FWlib\inc\misc.h
